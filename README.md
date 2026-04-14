@@ -18,10 +18,6 @@
   - **Lumina** - Cross-platform iOS and Android app (React Native / Expo /
     TypeScript) with RevenueCat IAP, push notifications, and AdMob.
 
-  - **iOS/Android Background Audio Unity Plugin** - Native Objective-C/Swift
-    and Java plugins bridging Unity to platform audio APIs.
-    Published on the Unity Asset Store.
-
   ### Tech I work with
 
   Python, React Native, TypeScript, Unity (C#), Firebase, LiveKit,
